@@ -7,12 +7,12 @@ This project implements a simulation tool that creates a grid-based environment 
 
 Features
 
-Customizable grid sizes (4x4, 8x8, 12x12) to simulate projects of varying complexity
-Random task generation with varying priorities and difficulties
-Real-time scoring based on task completion and efficiency
-Calculation of Project Management Efficiency (PME) and Bits Per Second (BPS) metrics
-Interactive command-line interface for task selection
-Feedback mechanism to provide insights on performance
+    Customizable grid sizes (4x4, 8x8, 12x12) to simulate projects of varying complexity
+    Random task generation with varying priorities and difficulties
+    Real-time scoring based on task completion and efficiency
+    Calculation of Project Management Efficiency (PME) and Bits Per Second (BPS) metrics
+    Interactive command-line interface for task selection
+    Feedback mechanism to provide insights on performance
 
 Installation
 
