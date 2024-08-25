@@ -20,9 +20,9 @@ Ensure you have Python 3.6+ installed on your system.
 
 Clone this repository:
 
-    Copygit clone -  https://github.com/your-username/webgrid-project-management.git
+    Copy - git clone https://github.com/ai-in-pm/PM-WebGrid.git
     
-    cd webgrid-project-management
+    cd PM-WebGrid
 
 
 No additional libraries are required as this project uses Python standard libraries.
