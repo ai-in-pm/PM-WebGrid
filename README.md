@@ -19,18 +19,18 @@ Ensure you have Python 3.6+ installed on your system.
 
 Clone this repository:
 
-  -Copygit clone https://github.com/your-username/webgrid-project-management.git
-  
-  -cd webgrid-project-management
+    -Copygit clone https://github.com/your-username/webgrid-project-management.git
+    
+    -cd webgrid-project-management
 
 
 No additional libraries are required as this project uses Python standard libraries.
 
 Usage
 
-  -Run the simulation using the following command:
-  
-  -Copy python webgrid_pm.py
+    -Run the simulation using the following command:
+    
+    -Copy python webgrid_pm.py
 
 Follow the prompts to:
 
@@ -52,7 +52,7 @@ The simulation runs for the specified duration, after which results are calculat
 
 Scoring
 
-Project Management Efficiency (PME): Calculated as (Net Correct Tasks Completed Per Minute / Grid Size) * 100
-Bits Per Second (BPS): Calculated as Log2(PME) / Total Time in Seconds
+    -Project Management Efficiency (PME): Calculated as (Net Correct Tasks Completed Per Minute / Grid Size) * 100
+    -Bits Per Second (BPS): Calculated as Log2(PME) / Total Time in Seconds
 
 Higher scores in both metrics indicate better performance in task management and decision-making under time constraints.
