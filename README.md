@@ -1,6 +1,8 @@
 # PM-WebGrid
 A Python implementation of a Webgrid-inspired Project Management simulation designed to assess and enhance a project manager's decision-making speed, accuracy, and prioritization skills.
 
+This repository was inspired by Webgrid developed by Neuralink.  To learn more, visit the following website: https://neuralink.com/webgrid/
+
 Overview
 
 This project implements a simulation tool that creates a grid-based environment representing various project tasks. Project managers can use this tool to practice and improve their task management and decision-making skills in a time-constrained, gamified setting.
