@@ -35,8 +35,11 @@ Usage
 Follow the prompts to:
 
 Enter the grid size (4 for small, 8 for medium, 12 for large projects)
+
 Set the simulation duration in seconds
+
 Select tasks by entering row and column numbers when prompted
+
 
 How It Works
 
