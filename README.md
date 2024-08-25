@@ -16,16 +16,18 @@ Feedback mechanism to provide insights on performance
 Installation
 
 Ensure you have Python 3.6+ installed on your system.
-----
+
 Clone this repository:
   Copygit clone https://github.com/your-username/webgrid-project-management.git
   cd webgrid-project-management
-----
+
+
 No additional libraries are required as this project uses Python standard libraries.
 
 Usage
-Run the simulation using the following command:
-Copypython webgrid_pm.py
+  Run the simulation using the following command:
+  Copy python webgrid_pm.py
+
 Follow the prompts to:
 
 Enter the grid size (4 for small, 8 for medium, 12 for large projects)
