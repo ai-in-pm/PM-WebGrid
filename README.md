@@ -3,6 +3,7 @@ A Python implementation of a Webgrid-inspired Project Management simulation desi
 
 Overview
 This project implements a simulation tool that creates a grid-based environment representing various project tasks. Project managers can use this tool to practice and improve their task management and decision-making skills in a time-constrained, gamified setting.
+
 Features
 
 Customizable grid sizes (4x4, 8x8, 12x12) to simulate projects of varying complexity
@@ -15,10 +16,11 @@ Feedback mechanism to provide insights on performance
 Installation
 
 Ensure you have Python 3.6+ installed on your system.
+----
 Clone this repository:
 Copygit clone https://github.com/your-username/webgrid-project-management.git
 cd webgrid-project-management
-
+----
 No additional libraries are required as this project uses Python standard libraries.
 
 Usage
